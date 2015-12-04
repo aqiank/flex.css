@@ -18,39 +18,57 @@
 }
 
 .flex.one {
-	flex: 1;
+	-webkit-flex: 1 1;
+	-ms-flex: 1 1;
+	flex: 1 1;
 }
 
 .flex.two {
-	flex: 2;
+	-webkit-flex: 2 2;
+	-ms-flex: 2 2;
+	flex: 2 2;
 }
 
 .flex.three {
-	flex: 3;
+	-webkit-flex: 3 3;
+	-ms-flex: 3 3;
+	flex: 3 3;
 }
 
 .flex.four {
-	flex: 4;
+	-webkit-flex: 4 4;
+	-ms-flex: 4 4;
+	flex: 4 4;
 }
 
 .flex.five {
-	flex: 5;
+	-webkit-flex: 5 5;
+	-ms-flex: 5 5;
+	flex: 5 5;
 }
 
 .flex.six {
-	flex: 6;
+	-webkit-flex: 6 6;
+	-ms-flex: 6 6;
+	flex: 6 6;
 }
 
 .flex.seven {
-	flex: 7;
+	 -webkit-flex: 7 7;
+	-ms-flex: 7 7;
+	flex: 7 7;
 }
 
 .flex.eight {
-	flex: 8;
+	-webkit-flex: 8 8;
+	-ms-flex: 8 8;
+	flex: 8 8;
 }
 
 .flex.nine {
-	flex: 9;
+	-webkit-flex: 9 9;
+	-ms-flex: 9 9;
+	flex: 9 9;
 }
 
 .flex.align-start {
@@ -94,6 +112,7 @@
 	-ms-justify-content: flex-end;
 	justify-content: flex-end;
 }
+
 .flex.justify-center {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
